@@ -2,7 +2,7 @@
 
 This repository contains a Python-based simulation of a **dual-arm, 2-link robotic system**. It uses inverse kinematics, Newton-Euler dynamics, and real-time animation to simulate robotic motion, visualize forces and torques, and respond to user-defined target positions.
 
-![Dual Arm Simulation](https://github.com/your-username/dual-arm-robotic-sim/assets/your-screenshot.png)
+
 
 ## 🛠 Features
 
